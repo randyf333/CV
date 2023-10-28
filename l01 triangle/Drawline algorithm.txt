@@ -1,0 +1,9 @@
+int drawLine(x1,y1,x2,y2)
+{
+    int x_change = (x2-x1);
+    int y_change = (y2-y1);
+    int j = y1;
+    int edit = y_change - x_change
+    for (i in x1; i < x2-1; i++){
+    }
+}
